@@ -14,9 +14,15 @@ run this in terminal
 
 Explanation of Key Functions:
 load_events(): Loads events from events.json when the app starts.
+
 save_events(events): Saves the current state of events to events.json after any modifications.
+
 add_event(date): Prompts the user for event details and saves them.
+
 delete_event(date): Deletes an event for a specific date.
+
 show_event(date): Displays details of an event on a specific date.
+
 refresh_calendar(): Marks the days that have events in the calendar.
+
 This approach gives you a full-featured dynamic calendar using just Python and local storage, all in a standalone desktop application. Let me know if you have any questions or need further adjustments
