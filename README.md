@@ -8,7 +8,8 @@ Required Dependencies:
 
 You'll need to install tkcalendar :
 run this in terminal
-pip install tkcalendar
+
+-- pip install tkcalendar
 
 
 Explanation of Key Functions:
